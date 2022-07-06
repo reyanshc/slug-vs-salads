@@ -1,0 +1,28 @@
+{
+    "name": "slug vs salads",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
